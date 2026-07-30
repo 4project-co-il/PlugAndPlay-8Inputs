@@ -1,4 +1,3 @@
-# PlugAndPlay-8Inputs
 # PlugAndPlay: Input module with 8 screw terminals
 This is the repository with the files for PlugAndPlay input module with 8 screw terminals
 
